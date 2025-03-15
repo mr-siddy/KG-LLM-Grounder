@@ -1,0 +1,8 @@
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.11.0
+pykeen>=1.10.0          # Example library for KG embeddings
+numpy>=1.23
+scipy>=1.8
+tqdm>=4.64
+accelerate>=0.20.0      # For large model training acceleration
